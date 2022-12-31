@@ -23,5 +23,15 @@
     "name": "Hollowood Music & Sound",
     "url": "https://hollowood.com/",
     "desc": "Backline & Sound reinforcement"
+  },
+  {
+    "name": "United Rentals",
+    "url": "https://www.unitedrentals.com",
+    "desc": "Industrial equipment rentals"
+  },
+  {
+    "name": "Three Rivers Entertainment",
+    "url": "https://threeriversentertainment.com/",
+    "desc": "Lighting, media, sound reinforcement, & staging"
   }
 ]
